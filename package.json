@@ -1,0 +1,18 @@
+{
+  "name": "sample",
+  "version": "0.0.1",
+  "description": "Project Upgrading and Onboarding in Zeppelinos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Meegada",
+    "Mahesh"
+  ],
+  "author": "Meegada Mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "zos-lib": "^2.0.1"
+  }
+}
